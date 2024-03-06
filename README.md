@@ -11,7 +11,7 @@
 
 ## Major Class Themes
 * Employed pandas DataFrames to filter, clean, and prepare the NHANES datasets for analysis, showcasing the flexibility and power of DataFrames in handling real-world data.
-* Utilized if statements within custom functions to dichotomize outcomes and apply logical conditions, demonstrating the application of basic programming constructs in data analysis.
+* Utilized if statements within custom functions to dichotomize and/or polychotomize outcomes and apply logical conditions, demonstrating the application of basic programming constructs in data analysis.
 
 ## Project Improvements
 * If redoing the project, I would incorporate more advanced statistical analyses and predictive modeling to deepen the insights gained.
