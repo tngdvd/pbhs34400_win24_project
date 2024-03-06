@@ -19,7 +19,7 @@
 
 ## Running the Project
 * Ensure pandas, NumPy, seaborn, matplotlib, scipy, and tableone are installed.
-* Data are already uploaded in GitHub, however, alternatively these can be downloaded from the NHANES website (OHXDEN_J.XPT and DEMO_J.XPT for 2017-18).
+* Datasets are already uploaded in GitHub, however, alternatively these can be downloaded from the NHANES website (OHXDEN_J.XPT and DEMO_J.XPT for 2017-18).
 * The notebook guides through data preprocessing and analysis through embedded comments.
 
 ## Challenges
